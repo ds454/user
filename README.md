@@ -21,3 +21,5 @@ The first time this devcontainer is started, docker needs to pull the image (the
 |----------|----------|
 | Java     | 25.0.4.1 |
 | Maven    | 3.10.0   |
+
+Note that gradle is _not_ installed.
