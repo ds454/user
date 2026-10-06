@@ -4,7 +4,7 @@
     "postAttachCommand": "${containerWorkspaceFolder}/.devcontainer/start.sh",
     "features": {
         "ghcr.io/devcontainers/features/java:1.8.3": {
-            "version": "25",
+            "version": "25.0.4+1-ms",
             "installMaven": "true",
             "mavenVersion": "3.10.0"
         }
